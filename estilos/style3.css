@@ -1,0 +1,31 @@
+body{
+text-align: center;
+background-color: whitesmoke ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 30px;
+padding: 20px;
+font-size: 20px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.button{
+    background-color:rgb(255, 110, 110);
+    color: white;
+    box-sizing: border-box;
+    width: 120px;
+    padding: 20px;
+
+}
+div{
+    padding: 30px;
+    margin: 20px;
+}
+strong{
+    font-size: 30px;
+
+}
+span{
+    color:rgb(7, 88, 155);
+}
